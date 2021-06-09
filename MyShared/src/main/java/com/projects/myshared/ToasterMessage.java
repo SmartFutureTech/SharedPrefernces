@@ -1,4 +1,4 @@
-package com.projects.sharedpreference;
+package com.projects.myshared;
 
 import android.content.Context;
 import android.widget.Toast;
